@@ -28,9 +28,17 @@
         android:text="按钮21">
     </Button>
     <Button
+        android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:text="按钮3">
+    </Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/button3"
+        android:text="按钮4">
     </Button>
 </RelativeLayout>
