@@ -39,6 +39,6 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/button3"
-        android:text="按钮3">
+        android:text="按钮31">
     </Button>
 </RelativeLayout>
