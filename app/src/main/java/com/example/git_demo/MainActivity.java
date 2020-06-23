@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         text=findViewById(R.id.text);//添加文字
-		//ssh方式提交
+		//ssh方式提交111
     }
 }
